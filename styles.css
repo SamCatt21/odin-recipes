@@ -8,6 +8,16 @@ h1 {
     background-color: lightgreen;
 }
 
+h2 {
+    background-color: blueviolet;
+    color: white;
+}
+
 ul {
     font-weight: 1000;
+}
+
+.ingredients {
+    font-weight: 500;
+    color: darkblue;
 }
