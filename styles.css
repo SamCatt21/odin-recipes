@@ -20,7 +20,15 @@ h2 {
 ul {
     font-weight: 1000;
     margin: 16px;
-    padding: 0 16px;
+    padding: 0 8px;
+}
+
+.contents {
+    display: inline-block;
+    border: solid 2px black;
+    padding: 8px;
+    margin-right: 8px;
+    background-color: #ade2e6;
 }
 
 .ingredients {
